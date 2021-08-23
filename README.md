@@ -15,17 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img alt="logo" src="./github/logo.png"/>
-  <h3 align="center">gersonrsantos</h3>
-  
-  ![gersonrsantos](./github/logo.png)
-  <img src="./github/logo.png">
+  <img alt="logo" src=".github/logo.png"/>
 </p>
 
 <br>
 ### 🤙🏾 E aí, beleza? Eu sou Gerson 👋
 
 <samp>
+  </br>
   </br>
   <p align="center">
     <a href="https://twitter.com/gersonrs3" target="_blank" >
@@ -124,8 +121,8 @@ Horas vagas gosto de jogar **Dota 2** e outros jogos mobas e FPS, atualmente est
 <p align="center">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ialexanderbrito&layout=compact&title_color=58A6DA&icon_color=8B949E&text_color=8B949E&bg_color=ffffff00"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GersonRS&layout=compact&title_color=58A6DA&icon_color=8B949E&text_color=8B949E&bg_color=ffffff00"
     />
   <img align="center"
-      height="165" src="https://github-readme-stats.vercel.app/api?username=ialexanderbrito&show_icons=true&title_color=58A6DA&icon_color=8B949E&text_color=8B949E&bg_color=ffffff00" />
+      height="165" src="https://github-readme-stats.vercel.app/api?username=GersonRS&show_icons=true&title_color=58A6DA&icon_color=8B949E&text_color=8B949E&bg_color=ffffff00" />
 </p>

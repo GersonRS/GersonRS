@@ -31,7 +31,7 @@ Here are some ideas to get you started:
     <a href="https://instagram.com/gersonrsantos" target="_blank" >
       <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-ff2b8e?logo=Instagram&logoColor=white">
     </a>
-    <a href="https://www.linkedin.com/in/gerson-santos-a1442a90/" target="_blank" >
+    <a href="www.linkedin.com/in/gersonrsantos" target="_blank" >
       <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-blue?logo=Linkedin&logoColor=white">
     </a>
     <a href="https://t.me/gersonrsantos" target="_blank" >
@@ -49,7 +49,7 @@ Horas vagas gosto de jogar **Dota 2** e outros jogos mobas e FPS, atualmente est
 
 ```js
   const importantLinks = {
-    📒 Linkedin: 'https://www.linkedin.com/in/gerson-santos-a1442a90/',
+    📒 Linkedin: 'www.linkedin.com/in/gersonrsantos',
     👨🏾‍💻 Site: 'https://gersonrs.github.io/',
     👋 Email: 'gersonrodriguessantos8@gmail.com',
   }

@@ -27,9 +27,9 @@
   </p>
 </samp>
 
-Sou formado em Sistemas de Informação pela Universidade Federal Rural de Pernambuco(UFRPE) e mestre em Ciencia da Computação através do programa de Pós-graduação em Informatica Aplicada também da UFRPE, apaixonado por tecnologia e games.
+Sou formado em Sistemas de Informação pela Universidade Federal Rural de Pernambuco(UFRPE) e mestre em Informatica Aplicada através do programa de Pós-graduação em Informatica Aplicada também da UFRPE, apaixonado por tecnologia e games.
 <br/>
-Horas vagas gosto de jogar **Dota 2** e outros jogos mobas e FPS, atualmente estou focando meus estudos na área de Machine Learning com **Python** e **Matlab**. Também curto mexer com prototipagens de tela com **Figma** e edições de imagem com **Gimp 2**.
+Horas vagas gosto de jogar **Dota 2** e outros jogos mobas e FPS, atualmente estou focando meus estudos na área de Machine Learning com **Python** e **Matlab**. Também curto mexer com prototipagens em arduino, de tela com **Figma** e edições de imagem com **Gimp 2**.
 
 ```js
   const importantLinks = {

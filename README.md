@@ -44,7 +44,7 @@ Let's embark on this development journey together and create amazing projects! ð
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gersonrs3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gersonrs3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/@gersonrsantos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@gersonrsantos" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gersonrsantos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@gersonrsantos" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22254292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22254292" height="30" width="40" /></a>
 <a href="https://instagram.com/gersonrsantos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gersonrsantos" height="30" width="40" /></a>
 <a href="https://medium.com/@gersonrsantos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gersonrsantos" height="30" width="40" /></a>

@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Gerson</h1>
 <h3 align="center">A passionate Data scientist for technology</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gersonrs&label=Profile%20views&color=0e75b6&style=flat" alt="gersonrs" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gersonrs&column=-1&theme=discord&no-bg=true" alt="gersonrs" /></a> </p>
+
 Welcome to my GitHub profile! I hold a degree in Information Systems and a master's in Applied Informatics from UFRPE. My passion for technology and gaming has led me to explore the world of data science, data engineering and software engineering.
 
 During my free time, I enjoy playing Dota 2 and other MOBAs/FPS, finding balance between virtual challenges and the real world. My goal is to leverage technology to positively impact people's lives.
@@ -10,12 +14,6 @@ Currently, I'm focused on studying Machine Learning, Big Data and Data Pipeline 
 Moreover, I love working with Big Data and Designs. I believe that combining creativity with technology is the key to innovation.
 
 Let's embark on this development journey together and create amazing projects! 🚀
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gersonrs&label=Profile%20views&color=0e75b6&style=flat" alt="gersonrs" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gersonrs&column=-1&theme=discord&no-bg=true" alt="gersonrs" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/gersonrs3" target="blank"><img src="https://img.shields.io/twitter/follow/gersonrs3?logo=twitter&style=for-the-badge" alt="gersonrs3" /></a> </p>
 
 - 🔭 I’m currently working on CESAR [Modern Devops Stack](https://github.com/GersonRS/modern-devops-stack)
 

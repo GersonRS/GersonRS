@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gerson</h1>
 <h3 align="center">A passionate Data scientist for technology</h3>
 
-Welcome to my GitHub profile! I hold a degree in Information Systems and a master's in Applied Informatics from UFRPE. My passion for technology and gaming has led me to explore the world of data science and software engineering.
+Welcome to my GitHub profile! I hold a degree in Information Systems and a master's in Applied Informatics from UFRPE. My passion for technology and gaming has led me to explore the world of data science, data engineering and software engineering.
 
 During my free time, I enjoy playing Dota 2 and other MOBAs/FPS, finding balance between virtual challenges and the real world. My goal is to leverage technology to positively impact people's lives.
 
-Currently, I'm focused on studying Machine Learning with Python and Matlab, honing my skills in data analysis and interpretation projects.
+Currently, I'm focused on studying Machine Learning, Big Data and Data Pipeline with Python, honing my skills in data analysis and interpretation projects.
 
-Moreover, I love working with Arduino prototyping, creating designs with Figma, and editing images using Gimp 2. I believe that combining creativity with technology is the key to innovation.
+Moreover, I love working with Big Data and Designs. I believe that combining creativity with technology is the key to innovation.
 
 Let's embark on this development journey together and create amazing projects! 🚀
 

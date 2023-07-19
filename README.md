@@ -60,8 +60,7 @@ Let's embark on this development journey together and create amazing projects! ð
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gersonrs&show_icons=true&theme=dark&locale=en" alt="gersonrs" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gersonrs&theme=dark" alt="gersonrs" /></p>
-<!-- 
+
 <p align="center">
-  <img src="https://github.com/Matrix278/Matrix278/raw/output/ocean.gif" alt="snake">
+  <img src="https://github.com/GersonRS/GersonRS/raw/output/ocean.gif" alt="snake">
 </p>
--->

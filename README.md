@@ -37,6 +37,10 @@ Let's embark on this development journey together and create amazing projects! ð
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Scrum em um projeto pessoal!](https://medium.com/nave-recife/scrum-em-um-projeto-pessoal-bcb70a2d27f6?source=rss-58e9941bf0b------2)
+- [Interface em C#](https://medium.com/nave-recife/interface-em-c-935148bb8cae?source=rss-58e9941bf0b------2)
+- [PÃ¡ginas no Ionic](https://medium.com/nave-recife/p%C3%A1ginas-no-ionic-7216c839e143?source=rss-58e9941bf0b------2)
+- [Componentes no Angular](https://medium.com/nave-recife/componentes-no-angular-2cd087073a3b?source=rss-58e9941bf0b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

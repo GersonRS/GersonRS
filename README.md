@@ -1,11 +1,12 @@
 [![Gerson's GitHub Banner](./assets/GitHubHeader.png)](https://gersonrs.github.io/)
 
-<h1 align="center">Hi 👋, I'm Gerson</h1>
 <h3 align="center">A passionate Data scientist for technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gersonrs&label=Profile%20views&color=0e75b6&style=flat" alt="gersonrs" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gersonrs&column=-1&theme=discord&no-bg=true" alt="gersonrs" /></a> </p>
+
+<h1 align="center">Hey there 👋</h1>
 
 Welcome to my GitHub profile! I hold a degree in Information Systems and a master's in Applied Informatics from UFRPE. My passion for technology and gaming has led me to explore the world of data science, data engineering and software engineering.
 
@@ -36,6 +37,8 @@ Let's embark on this development journey together and create amazing projects! �
 - 📄 Know about my experiences [https://gersonrs.github.io/](https://gersonrs.github.io/)
 
 - ⚡ Fun fact **https://gersonrs.github.io/**
+
+Want to know more about me? [Check out my portfolio](https://gersonrs.github.io/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

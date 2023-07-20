@@ -1,4 +1,4 @@
-[![Gerson's GitHub Banner](assets/GitHubHeader.png)](https://gersonrs.github.io/)
+[![Gerson's GitHub Banner](./assets/GitHubHeader.png)](https://gersonrs.github.io/)
 
 <h1 align="center">Hi ðŸ‘‹, I'm Gerson</h1>
 <h3 align="center">A passionate Data scientist for technology</h3>
@@ -63,6 +63,6 @@ Let's embark on this development journey together and create amazing projects! ð
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gersonrs&theme=dark" alt="gersonrs" /></p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/GersonRS/GersonRS/raw/output/ocean.gif" alt="snake">
-</p>
+</p> -->

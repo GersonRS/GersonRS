@@ -1,4 +1,4 @@
-[![Gerson's GitHub Banner](./assets/GitHubHeader.png)](https://gersonrs.github.io/)
+[![Gerson's GitHub Banner](assets/GitHubHeader.png)](https://gersonrs.github.io/)
 
 <h1 align="center">Hi 👋, I'm Gerson</h1>
 <h3 align="center">A passionate Data scientist for technology</h3>

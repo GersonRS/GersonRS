@@ -22,13 +22,13 @@ Let's embark on this development journey together and create amazing projects! �
 
 - 🌱 I’m currently learning **dbt, MLOps and DataOps**
 
-- 👯 I'm collaborate on [NExT](https://github.com/NExT-2023-1) of CESAR SCHOOL
+- 👯 I'm collaborate on [NExT](https://github.com/NExT-2023-1) of [CESAR SCHOOL](https://www.cesar.school/)
 
 - 🤝 I'm looking for help with my [Modern Devops stack](https://github.com/GersonRS/modern-devops-stack) project and [data engineering for machine learning](https://github.com/GersonRS/data-engineering-for-machine-learning)
 
 - 👨‍💻 All of my projects are available at [https://github.com/GersonRS](https://github.com/GersonRS?tab=repositories)
 
-- 📝 I regularly write articles on [https://gersonrs.github.io/](https://gersonrs.github.io/)
+- 📝 I regularly write articles on [@gersonrsantos](https://medium.com/@gersonrsantos)
 
 - 💬 Ask me about **Ariflow, Spark, Kubernetes, Docker, Python, Java and more**
 
